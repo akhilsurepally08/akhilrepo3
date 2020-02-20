@@ -1,0 +1,6 @@
+case $1 in
+veg )
+echo carrot cabbage gobi ;;
+nonveg )
+chicken fish mutton prawns ;;
+esac
